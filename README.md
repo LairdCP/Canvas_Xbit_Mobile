@@ -1,7 +1,11 @@
 # Canvas Xbit Mobile
 
-Canvas Xbit Mobile enables running small applications or "Applets" to help visualize BLE data and provide features like BLE Over-the-Air firmware updates.
+Canvas Xbit Mobile enables running small applications or "Applets" to help visualize BLE data and provide helpful examples and features. 
+
+BLE Over-the-Air firmware updates
+
 Sera NX040 Tag-to-Tag demonstration
+
 Tilt Sensor demonstration for BT510
 
 Find it on GooglePlay
